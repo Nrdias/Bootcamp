@@ -29,4 +29,5 @@ bin/
 .DS_Store
 
 ### Others ###
- .idea/
+ .idea/*
+ Bootcamp.iml
